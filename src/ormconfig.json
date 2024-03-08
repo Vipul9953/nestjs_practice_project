@@ -1,0 +1,9 @@
+
+{
+    "type": "sqlite",
+    "database": "/home/vishal/vipul/nestjsauth/nestjs",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true,
+    "logging": true
+  }
+  
